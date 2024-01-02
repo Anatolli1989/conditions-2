@@ -44,15 +44,15 @@ print("Hello qwerty")
 
 ###############
 # ввести рейтинг фільму: якщо рейтинг дорівнює 5 або 4 - ок, інакше - погано
-
-film_rating = int(input("Enter film rating: "))
-
-if film_rating > 0 and film_rating <= 5:
-    if film_rating == 4 or film_rating == 5:
-        print("OK!")
-    else:
-        print("Not OK!")
-else:
-    print("Incorrect rating!")
-
-print("Hello world!")
+#
+# film_rating = int(input("Enter film rating: "))
+#
+# if film_rating > 0 and film_rating <= 5:
+#     if film_rating == 4 or film_rating == 5:
+#         print("OK!")
+#     else:
+#         print("Not OK!")
+# else:
+#     print("Incorrect rating!")
+#
+# print("Hello world!")
